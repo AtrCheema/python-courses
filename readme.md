@@ -7,9 +7,9 @@
 
 ### Class Attributes
 
-### Methods
+### [Methods](https://github.com/AtrCheema/oop_python_urdu/blob/master/chap_1/lesson4.ipynb)
 
-### The __init__ Method
+### [The __init__ Method](https://github.com/AtrCheema/oop_python_urdu/blob/master/chap_1/lesson5.ipynb)
 
 ### Data Abstraction, Data Encapsulation, and Information Hiding
 
