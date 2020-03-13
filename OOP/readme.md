@@ -1,14 +1,14 @@
-## ****Object Oriented Programming ****
+This folder contains series of tutorials on object oriented programming.
 
-### [Intro to OOP in Python]()
+### [Intro to OOP in Python](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_1.ipynb)
 
-### [Create a simple class]()
+### [Create a simple class](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_2.ipynb)
 
-### [Class Attributes]()
+### [Class Attributes](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_3.ipynb)
 
-### [Methods](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson4.ipynb)
+### [Methods](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_4.ipynb)
 
-### [The __init__ Method](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson5.ipynb)
+### [The __init__ Method](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_5.ipynb)
 
 ### [Data Abstraction, Data Encapsulation, and Information Hiding]()
 
