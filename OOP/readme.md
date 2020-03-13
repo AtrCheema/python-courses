@@ -54,7 +54,7 @@ This folder contains series of tutorials on object oriented programming.
 
 ### [The __call__ method]()
 
-### [Standard Classes as Base Classes
+### [Standard Classes as Base Classes]()
 
 ### [Exercises]()
 
