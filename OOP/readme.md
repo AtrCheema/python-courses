@@ -4,65 +4,31 @@ This folder contains series of tutorials on object oriented programming.
 
 ### [Create a simple class](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_2.ipynb)
 
-### [Class Attributes](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_3.ipynb)
+### [Attributes](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_3.ipynb)
 
 ### [Methods](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_4.ipynb)
 
 ### [The __init__ Method](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_5.ipynb)
 
-### [Data Abstraction, Data Encapsulation, and Information Hiding]()
+### [__str__ and __repr__ Methods](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_6.ipynb)
 
-### [__str__- and __repr__-Methods]()
+### [Public- Protected- and Private Attributes](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_7.ipynb)
 
-### [Public- Protected- and Private Attributes]()
+### [Class and instance Attributes](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_8.ipynb)
 
-### [Destructor]()
+### [Static Methods](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_9.ipynb)
 
-### [Class Attributes]()
+### [Class Methods](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_10.ipynb)
 
-### [Example with Class Attributes]()
+`### [Class Methods vs. Static Methods and Instance Methods]()
 
-### [Static Methods]()
+### [Property](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_11.ipynb)
 
-### [Class Methods]()
+### [Descriptors](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_12.ipynb)
 
-### [Class Methods vs. Static Methods and Instance Methods]()
-
-
-### [Public instead of Private Attributes]()
+### [Digging deep into property](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_13.ipynb)
 
 
-### [Syntax and Simple Inheritance Example]()
-
-### [Overloading and Overriding]()
-
-### [Introduction]()
-
-### [Example: CalendarClock]()
-
-### [The Diamond Problem or the ,,deadly diamond of death'']()
-
-### [super and MRO]()
-
-### [Polymorphism]()
-
-### [Introduction]()
-
-### [Overview of Magic Methods]()
-
-### [Example class: Length]()
-
-### [The __call__ method]()
-
-### [Standard Classes as Base Classes]()
-
-### [Exercises]()
-
-### [Solutions to our Exercises]()
-
-### [Behind the scenes: Relationship between Class and type]()
-
-### [Motivation for Metaclasses]()
 
 ### Note
 Concepts in this course have been greatly influenced by OOP course provided by [python-course](https://www.python-course.eu/python3_object_oriented_programming.php) website the but the content has been modified for better understanding of urdu speaking audience.
