@@ -7,3 +7,5 @@ This course contains material related to basic course in Python. The course cove
 * [Sequential Data](https://github.com/AtrCheema/python-courses/blob/master/basics/sequential_data.ipynb)
 
 * [Lists](https://github.com/AtrCheema/python-courses/blob/master/basics/variables.ipynb)
+
+* [Copying lists](https://github.com/AtrCheema/python-courses/blob/master/basics/copying_lists.ipynb)
