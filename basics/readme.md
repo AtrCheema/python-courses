@@ -13,3 +13,5 @@ This course contains material related to basic course in Python. The course cove
 * [Dictionaries](https://github.com/AtrCheema/python-courses/blob/master/basics/dictionaries.ipynb)
 
 * [Sets](https://github.com/AtrCheema/python-courses/blob/master/basics/sets.ipynb)
+
+* [Conditional statements](https://github.com/AtrCheema/python-courses/blob/master/basics/conditional_statement.ipynb)
