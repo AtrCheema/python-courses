@@ -20,4 +20,6 @@ This course contains material related to basic course in Python. The course cove
 
 * [For Loops](https://github.com/AtrCheema/python-courses/blob/master/basics/for_loops.ipynb)
 
+* [print](https://github.com/AtrCheema/python-courses/blob/master/basics/print_function.ipynb)
+
 **Disclaimer** The material and topics in this course are highly influenced by the wonderful python tutorial website [python-course.eu](https://www.python-course.eu/), however, the actual content, sequence of topics has been modififed and adjusted for Urdu speaking community.
