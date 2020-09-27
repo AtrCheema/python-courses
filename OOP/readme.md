@@ -20,13 +20,15 @@ This folder contains series of tutorials on object oriented programming.
 
 ### [Class Methods](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_10.ipynb)
 
-`### [Class Methods vs. Static Methods and Instance Methods]()
+#[Class Methods vs. Static Methods and Instance Methods]()
 
 ### [Property](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_11.ipynb)
 
 ### [Descriptors](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_12.ipynb)
 
 ### [Digging deep into property](https://github.com/AtrCheema/python-courses/blob/master/OOP/lesson_13.ipynb)
+
+### [Inheritance](https://github.com/AtrCheema/python-courses/blob/master/OOP/Inheritance.ipynb)
 
 
 
